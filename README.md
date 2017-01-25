@@ -47,7 +47,7 @@ To run this project, you should run the following commands on your terminal:
 npm run dev-server
 npm start
 ```
-`WARNING!!! npm run dev-server should be executed on development enviroment only!!!`
+#### WARNING!!! npm run dev-server should be executed on development enviroment only!!!
 
 For production, first you should run:
 ```sh
@@ -67,7 +67,7 @@ You could get more info about my project on [My Project's Repo](https://github.c
 
 If you want to contribute to this boilerplate in any way, please feel free to fork it and send a pull request. I will surely appreciate some help :)
 
-`But keep in mind that this project looks for simplicity, so you should think twice before adding more frameworks, given the current chaotic framework hell scenario that JavaScript community is living right now!!!`
+#### But keep in mind that this project looks for simplicity, so you should think twice before adding more frameworks, given the current chaotic framework hell scenario that JavaScript community is living!
 
 ### Next planned features
  - Upgrade the default example component, add content to show the router benefits.
