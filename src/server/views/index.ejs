@@ -7,5 +7,9 @@
   <body>
     <div id="root"><%- reactOutput %></div>
   </body>
-  <script src="js/bundle.js"></script>
+  <%if (settings.env === 'production') { %>
+    <script src="/js/bundle.min.js"></script>
+  <% } else { %>
+    <script src="http://localhost:3001/js/bundle.js"></script>
+  <% } %>
 </html>

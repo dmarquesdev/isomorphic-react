@@ -13,5 +13,5 @@ app.set('view engine', 'ejs');
 isomorphic(app);
 
 const server = app.listen(PORT, () => {
-  console.log('Example isomorphic app server started on port %s', PORT);
+  console.log('Express is running on port %s', PORT);
 });
