@@ -34,7 +34,7 @@ src/ # Source files directory #
 ```
 
 ### Installing
-To install this project, you should run the following commands in your terminal:
+To install this project, you should run the following commands on your terminal:
 ```sh
 git clone https://github.com/dmarquesdev/isomorphic-react.git
 cd isomorphic-react
@@ -42,7 +42,7 @@ npm install
 ```
 
 ### Running
-To run this project, you should run the following commands in your terminal:
+To run this project, you should run the following commands on your terminal:
 ```sh
 npm run dev-server
 npm start
