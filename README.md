@@ -21,6 +21,7 @@ src/ # Source files directory #
     client/ # Files related to the React App #
         components/ # React components directory #
             App.js # React main component #
+            *.js # Navigation Proof of Concept Components #
         index.js # React App entrypoint #
 
     server/ # Files related to the server (Node.js and Express) #
