@@ -70,9 +70,5 @@ If you want to contribute to this boilerplate in any way, please feel free to fo
 
 #### But keep in mind that this project looks for simplicity, so you should think twice before adding more frameworks, given the current chaotic framework hell scenario that JavaScript community is living!
 
-### Next planned features
- - Upgrade the default example component, add content to show the router benefits.
- - Add Redux to the boilerplate
-
 ### License
 MIT
